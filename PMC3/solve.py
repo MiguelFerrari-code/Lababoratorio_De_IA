@@ -2,7 +2,7 @@ import re
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 1. Parsing dos dados
+# 1. parsing dos dados
 with open('/home/alunos/Lababoratorio_De_IA/PMC3/PMC3.md', 'r') as f:
     lines = f.readlines()
 
